@@ -9,3 +9,4 @@ This repository focuses on documenting my learning progress rather than presenti
 - Day 3: Additive & Subtractive primitives, Pocket, Arc Slot, Transparency
 - Day 4: Draft Workbench, Map Mode, Justification, Selection Filter
 - Day 5: Attaching sketches to Non-Planar surfaces; Holes and Threaded holes; Datum Planes
+- Day 6: Additive loft, Split edge, Carbon copy
