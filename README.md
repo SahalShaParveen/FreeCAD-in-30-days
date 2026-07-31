@@ -11,3 +11,5 @@ This repository focuses on documenting my learning progress rather than presenti
 - Day 5: Attaching sketches to Non-Planar surfaces, Holes and Threaded holes, Datum Planes
 - Day 6: Additive loft, Split edge, Carbon copy
 - Day 7: Subtractive loft, Draft workbench's clone tool
+- Day 8: Revised content from Days 1-7 and practiced by making a few models. 
+- Day 9: Lofting to a point, Tapered lofts
