@@ -13,3 +13,4 @@ This repository focuses on documenting my learning progress rather than presenti
 - Day 7: Subtractive loft, Draft workbench's clone tool
 - Day 8: Revised content from Days 1-7 and practiced by making a few models. 
 - Day 9: Lofting to a point, Tapered lofts
+- Day 10: Additive Pipe
